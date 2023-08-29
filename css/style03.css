@@ -1,0 +1,19 @@
+span{
+    background-color: yellow;
+    
+}
+img{
+    width: 100px;
+}
+#a1{
+    border: 5px solid lawngreen;
+}
+#a2{
+    border: 5px solid red;
+}
+.xx{
+    text-decoration: underline ;
+}
+h1, strong, #a3{
+    background-color:  blue;
+}

@@ -1,0 +1,13 @@
+p{
+    background-color: fuchsia;
+}
+hr{
+    width: 80%;
+    height: 100px;
+    border: none;
+    background-color: lawngreen;
+}
+*{
+    text-decoration: underline;
+    background-color: tomato;
+}
